@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Go(1)", "Go\", "{37B3436F-B
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "20253"
+		SlnRelativePath = "Go\"
 	EndProjectSection
 EndProject
 Global
